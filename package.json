@@ -13,11 +13,11 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@playwright/test": "^1.49.1",
+    "@playwright/test": "^1.51.1",
     "@types/node": "^20.11.20"
   },
   "dependencies": {
-    "live-server": "^1.2.2",
+    "live-server": "^1.2.0",
     "node-html-parser": "^7.0.1"
   }
 }
